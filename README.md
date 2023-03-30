@@ -9,7 +9,7 @@
 
 🔭 I’m currently **a second year student pursuing B.Tech Computer Science**
 
-🌱 I’m currently learning **React.js and backend development using Java**
+🌱 I’m currently working on **React.js and backend development using Java**
 
 👯 I’m looking to collaborate on **Frontend development projects**
 
