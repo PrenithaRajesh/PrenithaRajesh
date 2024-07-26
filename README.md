@@ -1,6 +1,6 @@
-<h2 align="left">Hey there! I'm Prenitha Rajesh</h2>
+<h2 align="left"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hey! I'm Prenitha Rajesh</h2>
 
-### 👩‍💻 &nbsp;About Me
+### About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently pursuing B.Tech Computer Science at Vellore Institute of Technology.\
