@@ -6,7 +6,6 @@
 🎓 &nbsp;I'm currently pursuing B.Tech Computer Science at Vellore Institute of Technology.\
 🌱 &nbsp;I'm currently learning more about Containerization.\
 ✉️ &nbsp;You can shoot me an email at prenitharajesh@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1T1y5g6tAOSWFpWohDMM-JpOxFN1rX2bA/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 ### Languages and Tools:
 
